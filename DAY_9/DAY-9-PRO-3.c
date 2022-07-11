@@ -1,4 +1,4 @@
-9-Assume that we have a car with 8 seats, and we are monitoring 8 seat belt status in a variable “G_Msg_switchstatus_Byte[]” as shown in pic1. 
+3-Assume that we have a car with 8 seats, and we are monitoring 8 seat belt status in a variable “G_Msg_switchstatus_Byte[]” as shown in pic1. 
 Each switch status is combination of 2 bits as shown in pic2.
 
 Write status of switches into variable “G_Msg_switchstatus_Byte[]” as below.
